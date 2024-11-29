@@ -1,5 +1,5 @@
 resource "aws_instance" "mahesh-web" {
-  ami           = "ami-0614680123427b75e"
+  ami           = "ami-Odee22c13ea7a9a67"
   instance_type = "t2.micro"
   key_name = "terraform-key"
 
